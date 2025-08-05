@@ -1,10 +1,6 @@
 Get the user data...
 process the data
 
-create an avatar for user
-clossing the mysql database connection
-
 login and logout
 
 change 1
-change 2 in harsh's database
